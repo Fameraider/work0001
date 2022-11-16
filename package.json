@@ -1,13 +1,16 @@
 {
-  "name": "work0001",
+  "name": "111",
   "theme": "syntax",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A short description of your syntax theme",
   "keywords": [
-    "syntax",
-    "theme"
+    "UFABET168",
+    "UFABET1688",
+    "แทงบอลออนไลน์",
+    "คาสิโนออนไลน์",
+    "เว็เว็บแทงบอลคาสิโนที่ดีที่สุด"
   ],
-  "repository": "https://github.com/atom/work0001",
+  "repository": "https://github.com/Fameraider/work0001",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
